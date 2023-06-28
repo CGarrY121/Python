@@ -14,3 +14,4 @@ avto.append ("govnovoz")
 print(avto)
 del (avto[-1])
 print (avto)
+print (avto)asdasd
